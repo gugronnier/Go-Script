@@ -12,6 +12,12 @@ Take a list of domain in input and scrap the main page of each in order to dermi
 
 ###
 
+## Contributors
+
+| Contributors | Contact address | Employer | Position |
+|:-----------:|:------------:|:------------:|:------------:|
+| Guillaume Gronnier | <gglyon769@gmail.com> | CEIS Cyberdefense | Cyber Thread Intelligence Consultant
+
 ----------------------------------------
 Copyright (C) 2019 Guillaume GRONNIER. All rights reserved
 
